@@ -1,4 +1,5 @@
-# AWS-Capstone
+# AWS-Capstone 
+#### Team Members: Neel Shah, Soham Butala, Aaditya Parthasarathy, Aditi Kharkwal, Ameya Bhamare
 
 ## Introduction:
 
